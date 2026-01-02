@@ -33,5 +33,8 @@ subscriptions, orders, logistics tracking, and admin operations. It focuses on
 scalability, clean architecture, and real business constraints rather than
 demo-only functionality.
 
-##Project status
-> This project is actively evolving as the business grows. You can visit it at voltandvarnish.co.za
+## Project status
+> This project is actively evolving as the business grows.
+> Live business deployment: https://voltandvarnish.co.za
+> Note: Sensitive business logic and credentials are excluded from this repository.
+
