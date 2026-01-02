@@ -32,3 +32,6 @@ This is a real-world shoe care business management system designed to handle
 subscriptions, orders, logistics tracking, and admin operations. It focuses on
 scalability, clean architecture, and real business constraints rather than
 demo-only functionality.
+
+##Project status
+> This project is actively evolving as the business grows. You can visit it at voltandvarnish.co.za
