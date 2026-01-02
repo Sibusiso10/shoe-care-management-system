@@ -28,5 +28,7 @@ including order logistics, subscriptions, payments, and admin operations.
 
 ## Why this project?
 
-This project was built to solve real business problems, not as a tutorial.
-It demonstrates backend design, business logic, and scalability planning.
+This is a real-world shoe care business management system designed to handle
+subscriptions, orders, logistics tracking, and admin operations. It focuses on
+scalability, clean architecture, and real business constraints rather than
+demo-only functionality.
