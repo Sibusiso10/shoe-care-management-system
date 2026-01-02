@@ -17,7 +17,7 @@ including order logistics, subscriptions, payments, and admin operations.
 - Backend: Next.js API routes
 - Database: MongoDB + Mongoose
 - Auth: Local auth (JWT planned)
-- Payments: Stripe/PayFast (in progress)
+- Payments: PayFast (in progress)
 
 ## Key Technical Challenges Solved
 
